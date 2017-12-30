@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.1
 Name:		texlive-bropd
-Version:	1.1
-Release:	9
+Version:	1.2
+Release:	1
 Summary:	Simplified brackets and differentials in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bropd
