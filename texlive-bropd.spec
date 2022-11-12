@@ -5,9 +5,9 @@ Summary:	Simplified brackets and differentials in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bropd
 License:	LPPL1.3
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.r35383.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.doc.r35383.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.source.r35383.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
