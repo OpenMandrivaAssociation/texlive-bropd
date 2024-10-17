@@ -3,7 +3,7 @@ Version:	35383
 Release:	2
 Summary:	Simplified brackets and differentials in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bropd
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bropd
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bropd.doc.r%{version}.tar.xz
